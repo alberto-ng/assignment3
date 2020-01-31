@@ -1,2 +1,5 @@
 # assignment3
-assignment 3
+
+Name: Alberto Chi Kan Ng  
+Student id: 2298866  
+References: zybook
